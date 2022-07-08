@@ -23,14 +23,21 @@ Tema: Cap 9 y 10 del libro Principios de circuitos Electricos Thomas L. Floyd Oc
 Analizar tres métodos de resolver ecuaciones
 simultáneas
 
-◆ Utilizar el método de la corriente en ramas para
-determinar cantidades desconocidas en un circuito
+◆ Utilizar el método de la corriente en ramas para determinar cantidades desconocidas en un circuito
 
-◆ Utilizar el análisis de lazos para determinar
-cantidades desconocidas en un circuito
+◆ Utilizar el análisis de lazos para determinar cantidades desconocidas en un circuito
 
-◆ Utilizar el análisis de nodos para determinar
-cantidades desconocidas en un circuito
+◆ Utilizar el análisis de nodos para determinar cantidades desconocidas en un circuito
+
+◆ Explicar los principios del electromagnetismo
+
+◆ Describir el principio de operación de varios tipos de dispositivos electromagnéticos
+
+◆ Explicar la histéresis magnética
+
+◆ Analizar el principio de inducción electromagnética
+
+◆ Describir algunas aplicaciones de la inducción electromagnética
 
 # 2.MARCO TEÓRICO (RESUMEN)
 
