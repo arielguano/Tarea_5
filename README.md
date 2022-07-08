@@ -80,6 +80,7 @@ Tema: Cap 9 y 10 del libro Principios de circuitos Electricos Thomas L. Floyd Oc
 
 # 4.VIDEO
 
+https://www.youtube.com/watch?v=YNaUJsHQpVY&t=397s
 
 # 5 CONCLUSIONES
 
