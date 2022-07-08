@@ -68,7 +68,7 @@ cantidades desconocidas en un circuito
 
 ![](https://github.com/arielguano/Tarea_5/blob/main/DEBER%205-09.png)
 
-![](https://github.com/arielguano/Tarea_5/blob/main/Mapa%209_10-1.png)
+![](https://github.com/arielguano/Tarea_5/blob/main/DEBER%205-10.png)
 
 ![](https://github.com/arielguano/Tarea_5/blob/main/DEBER%205-11.png)
 
