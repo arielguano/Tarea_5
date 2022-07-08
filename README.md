@@ -78,7 +78,10 @@ Tema: Cap 9 y 10 del libro Principios de circuitos Electricos Thomas L. Floyd Oc
 
 ![](https://github.com/arielguano/Tarea_5/blob/main/DEBER%205-12.png)
 
-# CONCLUSIONES
+# 4.VIDEO
+
+
+# 5 CONCLUSIONES
 
 ◆ Se concluyo que  el método de la corriente en ramas, se aplicarán las leyes de Kirchhoff para determinar la corriente en varias ramas de un circuito de múltiples lazos.
 
