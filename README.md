@@ -82,11 +82,12 @@ simultáneas
 ![](https://github.com/arielguano/Tarea_5/blob/main/DEBER%205-12.png)
 
 # CONCLUSIONES
-En el En el método de la corriente en ramas, se aplicarán las leyes de Kirchhoff para determinar la corriente en varias ramas de un circuito de múltiples lazos.
 
-En el método del voltaje en nodos, se determinarán los voltajes presentes en los nodos independientes de un circuito
+Se concluyo que  el método de la corriente en ramas, se aplicarán las leyes de Kirchhoff para determinar la corriente en varias ramas de un circuito de múltiples lazos.
 
-Este capítulo se aprendio de la cobertura de circuitos decd e introduce los conceptos de magnetismo y electromagnetismo.
+Se concluyo que en el método del voltaje en nodos, se determinarán los voltajes presentes en los nodos independientes de un circuito
+
+Se aprendio de la cobertura de circuitos decd e introduce los conceptos de magnetismo y electromagnetismo.
 
 La operación de dispositivos tales como el relevador, el solenoide, y el altavoz está basada en parte en principios magnéticos o electromagnéticos. 
 
