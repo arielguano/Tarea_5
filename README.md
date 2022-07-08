@@ -50,4 +50,26 @@ cantidades desconocidas en un circuito
 
 # 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMA
 
-![]()
+![](https://github.com/arielguano/Tarea_5/blob/main/DEBER%205-01.png)
+
+![](https://github.com/arielguano/Tarea_5/blob/main/DEBER%205-02.png)
+
+![](https://github.com/arielguano/Tarea_5/blob/main/DEBER%205-03.png)
+
+![](https://github.com/arielguano/Tarea_5/blob/main/DEBER%205-04.png)
+
+![](https://github.com/arielguano/Tarea_5/blob/main/DEBER%205-05.png)
+
+![](https://github.com/arielguano/Tarea_5/blob/main/DEBER%205-06.png)
+
+![](https://github.com/arielguano/Tarea_5/blob/main/DEBER%205-07.png)
+
+![](https://github.com/arielguano/Tarea_5/blob/main/DEBER%205-08.png)
+
+![](https://github.com/arielguano/Tarea_5/blob/main/DEBER%205-09.png)
+
+![](https://github.com/arielguano/Tarea_5/blob/main/Mapa%209_10-1.png)
+
+![](https://github.com/arielguano/Tarea_5/blob/main/DEBER%205-11.png)
+
+![](https://github.com/arielguano/Tarea_5/blob/main/DEBER%205-12.png)
