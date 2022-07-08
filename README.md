@@ -20,9 +20,6 @@ Tema: Cap 9 y 10 del libro Principios de circuitos Electricos Thomas L. Floyd Oc
 
 # 1.OBJETIVOS
 
-Analizar tres métodos de resolver ecuaciones
-simultáneas
-
 ◆ Utilizar el método de la corriente en ramas para determinar cantidades desconocidas en un circuito
 
 ◆ Utilizar el análisis de lazos para determinar cantidades desconocidas en un circuito
