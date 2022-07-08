@@ -80,3 +80,14 @@ simultáneas
 ![](https://github.com/arielguano/Tarea_5/blob/main/DEBER%205-11.png)
 
 ![](https://github.com/arielguano/Tarea_5/blob/main/DEBER%205-12.png)
+
+# CONCLUSIONES
+En el En el método de la corriente en ramas, se aplicarán las leyes de Kirchhoff para determinar la corriente en varias ramas de un circuito de múltiples lazos.
+
+En el método del voltaje en nodos, se determinarán los voltajes presentes en los nodos independientes de un circuito
+
+Este capítulo se aprendio de la cobertura de circuitos decd e introduce los conceptos de magnetismo y electromagnetismo.
+
+La operación de dispositivos tales como el relevador, el solenoide, y el altavoz está basada en parte en principios magnéticos o electromagnéticos. 
+
+Existen dos tipos de imanes son el imán permanente y el electroimán. El imán permanente mantiene un campo magnético constante entre sus dos polos sin que intervenga alguna excitación externa. El electroimán produce un campo magnético sólo cuando circula corriente a través de él.
